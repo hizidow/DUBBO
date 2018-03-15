@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.netease.haitao:global-module:1.2.0_18234">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/netease/haitao/global-module/1.2.0_18234/global-module-1.2.0_18234.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/netease/haitao/global-module/1.2.0_18234/global-module-1.2.0_18234-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/netease/haitao/global-module/1.2.0_18234/global-module-1.2.0_18234-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

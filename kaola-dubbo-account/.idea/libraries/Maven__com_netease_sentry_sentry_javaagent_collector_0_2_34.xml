@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.netease.sentry:sentry-javaagent-collector:0.2.34">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/netease/sentry/sentry-javaagent-collector/0.2.34/sentry-javaagent-collector-0.2.34.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/netease/sentry/sentry-javaagent-collector/0.2.34/sentry-javaagent-collector-0.2.34-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/netease/sentry/sentry-javaagent-collector/0.2.34/sentry-javaagent-collector-0.2.34-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

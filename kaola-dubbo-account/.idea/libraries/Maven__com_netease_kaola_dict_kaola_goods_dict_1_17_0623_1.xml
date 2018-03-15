@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.netease.kaola.dict:kaola-goods-dict:1.17.0623.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/netease/kaola/dict/kaola-goods-dict/1.17.0623.1/kaola-goods-dict-1.17.0623.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/netease/kaola/dict/kaola-goods-dict/1.17.0623.1/kaola-goods-dict-1.17.0623.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/netease/kaola/dict/kaola-goods-dict/1.17.0623.1/kaola-goods-dict-1.17.0623.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

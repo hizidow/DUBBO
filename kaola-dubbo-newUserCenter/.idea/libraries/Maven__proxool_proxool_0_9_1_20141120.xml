@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: proxool:proxool:0.9.1_20141120">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/proxool/proxool/0.9.1_20141120/proxool-0.9.1_20141120.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/proxool/proxool/0.9.1_20141120/proxool-0.9.1_20141120-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/proxool/proxool/0.9.1_20141120/proxool-0.9.1_20141120-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

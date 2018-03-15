@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.netease.haitao:haitao-account-api:1.16.04141711">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/netease/haitao/haitao-account-api/1.16.04141711/haitao-account-api-1.16.04141711.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/netease/haitao/haitao-account-api/1.16.04141711/haitao-account-api-1.16.04141711-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/netease/haitao/haitao-account-api/1.16.04141711/haitao-account-api-1.16.04141711-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
